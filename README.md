@@ -1,4 +1,3 @@
-# Image-Caption-Generator
 # 🖼️ Image Caption Generator
 
 > An AI-powered web application that automatically generates smart captions for any image — with tone selection, multi-language support, place exploration, and more.
@@ -307,3 +306,6 @@ Made with ❤️ using Flask + BLIP AI
 ## 📄 License
 
 This project is open source. Feel free to use, modify, and share.
+
+<img width="1919" height="969" alt="Screenshot 2026-04-27 211227" src="https://github.com/user-attachments/assets/36a0f978-c67e-43cc-a397-f927c5f49179" />
+
