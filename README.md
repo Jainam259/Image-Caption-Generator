@@ -307,5 +307,20 @@ Made with ❤️ using Flask + BLIP AI
 
 This project is open source. Feel free to use, modify, and share.
 
-<img width="1919" height="969" alt="Screenshot 2026-04-27 211227" src="https://github.com/user-attachments/assets/36a0f978-c67e-43cc-a397-f927c5f49179" />
+<img width="1919" height="969" alt="Screenshot 2026-04-27 211227" src="https://github.com/user-attachments/assets/2f339599-7013-4b03-94eb-85cf2b6b186d" />
+<img width="1915" height="965" alt="Screenshot 2026-04-27 211201" src="https://github.com/user-attachments/assets/71912bde-5c7f-4260-8e75-778b2d74837f" />
+<img width="1919" height="976" alt="Screenshot 2026-04-27 211105" src="https://github.com/user-attachments/assets/25e640df-9244-4b49-bd9b-490dde59e013" />
+<img width="1915" height="970" alt="Screenshot 2026-04-27 211048" src="https://github.com/user-attachments/assets/bae1310f-d040-4d9a-9e12-f56964cf879d" />
+<img width="1908" height="963" alt="Screenshot 2026-04-27 211006" src="https://github.com/user-attachments/assets/7df198b5-169f-46d1-b87b-467f182ffa29" />
+<img width="1904" height="960" alt="Screenshot 2026-04-27 210950" src="https://github.com/user-attachments/assets/c7420209-ec55-42ff-ac77-b61ce5a06a69" />
+<img width="1915" height="956" alt="Screenshot 2026-04-27 210905" src="https://github.com/user-attachments/assets/980b0e8d-b376-464b-826a-6fb7a60ed6b7" />
+<img width="1919" height="967" alt="Screenshot 2026-04-27 210721" src="https://github.com/user-attachments/assets/86dcd671-f89f-4d22-aa2d-9210145ffb8f" />
+<img width="1909" height="970" alt="Screenshot 2026-04-27 210628" src="https://github.com/user-attachments/assets/c135ba0a-872f-46d3-b4eb-6516527ac6a0" />
+<img width="1910" height="980" alt="Screenshot 2026-04-27 210613" src="https://github.com/user-attachments/assets/e011da35-d151-4f90-be33-4d5356d1a87a" />
+<img width="1909" height="963" alt="Screenshot 2026-04-27 210550" src="https://github.com/user-attachments/assets/435fec2c-e129-478e-888e-f526cffdfca2" />
+<img width="1917" height="972" alt="Screenshot 2026-04-27 210530" src="https://github.com/user-attachments/assets/724f6837-45e3-4462-a05b-b23673c2e2a6" />
+<img width="1919" height="969" alt="Screenshot 2026-04-27 210500" src="https://github.com/user-attachments/assets/73f108a1-dc92-46cb-87a3-37c40acec45e" />
+<img width="1913" height="966" alt="Screenshot 2026-04-27 210401" src="https://github.com/user-attachments/assets/f19b95d0-8fd2-4214-a5e8-f64d4afde89b" />
+<img width="1919" height="972" alt="Screenshot 2026-04-27 210331" src="https://github.com/user-attachments/assets/f85dc751-4d9c-4c88-87a6-442382885b7f" />
+
 
